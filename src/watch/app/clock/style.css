@@ -1,0 +1,111 @@
+.container {
+    width: 100%;
+    height: 170px;
+    /* background: yellow; */
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.372);
+    /* border-radius: 20px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content:flex-start;
+}
+
+.display_time{
+    width: 100%;
+    height: 70px;
+    background: green;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.372);
+}
+
+.btns{
+    width: 100%;
+    height: 60px;
+    /* margin: 10px; */
+    /* background: #fff; */
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.372); */
+}
+
+/* .brand_name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+} */
+
+.num{
+    width: 20px;
+    height: 20px;
+    /* background: rgb(139, 117, 117); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+
+.time{
+    font-size: 13px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    transition: .5s;
+    margin: 0;
+}
+
+#second_dots{
+    transition: .5s;;
+}
+
+
+.set_time{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.watch_btn{
+    width: 20px;
+    height: 20px;
+    border: none;
+    /* box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.171); */
+    padding: 17px;
+    margin: 5px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    /* background: #fff; */
+}
+
+.time_box{
+    /* padding: 5px; */
+    width: 100px;
+    font-size: 13px;
+    border: none;
+    /* box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.171); */
+    margin-left: 10px;
+}
+
+.time_box:focus{
+    outline-color: blue;
+}
+
+
+.set_time_display{
+    width: 100%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    /* margin: 20px; */
+}
+
+.bg{
+    background: green;
+}

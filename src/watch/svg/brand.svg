@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+    <!-- R -->
+    <text x="10" y="40" font-family="Arial" font-size="30" fill="red">
+        <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="0;1;0" /> R </text>
+    <!-- A -->
+    <text x="50" y="40" font-family="Arial" font-size="30" fill="blue">
+        <animate attributeName="opacity" dur="1s" begin="0.3s" repeatCount="indefinite"
+            values="0;1;0" /> A </text>
+    <!-- M -->
+    <text x="90" y="40" font-family="Arial" font-size="30" fill="green">
+        <animate attributeName="opacity" dur="1s" begin="0.6s" repeatCount="indefinite"
+            values="0;1;0" /> M </text>
+</svg>

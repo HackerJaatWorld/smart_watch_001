@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 70">
+    <!-- Loading -->
+    <text x="40" y="40" font-family="Arial" font-size="30" fill="black">Loading</text>
+    <!-- Dots -->
+    <text x="100" y="40" font-family="Arial" font-size="30" fill="black" opacity="0">
+      <animate attributeName="opacity" dur="1s" begin="1s" repeatCount="indefinite" values="0;1"/>
+      ...
+    </text>
+    <text x="115" y="40" font-family="Arial" font-size="30" fill="black" opacity="0">
+      <animate attributeName="opacity" dur="1s" begin="2s" repeatCount="indefinite" values="0;1"/>
+      ...
+    </text>
+    <text x="130" y="40" font-family="Arial" font-size="30" fill="black" opacity="0">
+      <animate attributeName="opacity" dur="1s" begin="3s" repeatCount="indefinite" values="0;1"/>
+      ...
+    </text>
+  </svg>
+  

@@ -23,6 +23,7 @@ ye ek bhut achha project hai
 15. watch status
 
 # start
+![Screenshot 2024-05-14 212609](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/05049f93-104e-4b68-81d1-7a8d45a4eb38)
 
 
 # Watch apps

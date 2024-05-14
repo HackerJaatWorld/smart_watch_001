@@ -41,5 +41,11 @@ uske bad watch_001 database ko open kre uske bad db folder me se sql file ko imp
 
 ab isme apna name daliye uske bas submit button par click kriye 
 agar aap pehle se bnai huye hai to loss watch par click kr ke watch id dal kar dekh skte hai or dubara watch ko open krne par watch automatic login ho jayegi
+aapko watch ki home screen dikhai degi
+
+![Screenshot 2024-05-14 214908](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/ac9fee1e-7c43-41c0-9488-c5877f0dea8a)
+
+isme black wallpeper pehle se hi set hai aap bad me change kr ske hai 
 
 # Watch apps
+* setting app

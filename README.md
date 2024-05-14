@@ -74,3 +74,58 @@ me app watch ko edit kr skte hai
   friendly ui
   ![Screenshot 2024-05-14 220427](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/fcbd362d-3e55-443e-8e79-ce796465d60a)
 
+* contact app
+  ![Screenshot 2024-05-14 220822](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/1c5c9c82-0c17-4c78-8882-4cf6906da205)
+
+working contact app 
+add new number 
+delete num 
+rename num
+etc
+or is par click kr ke usi number se msg kr skte hai 
+
+* camera app
+  ![Screenshot 2024-05-14 221123](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/bb2f25ed-162e-495d-8c72-ebcfdbcd6228)
+
+working camera app 
+click right button to click tha photo 
+photo ko tum watch ki file app me camera app me dekh skte ho 
+agar nhi aaya hai to pehle file me folder ko create kr lena or nhi to code ko chack kr lena 
+
+* msg app
+  ![Screenshot 2024-05-14 221438](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/cbbc9c6c-018d-48da-99de-38b09da6dcab)
+
+working msg app real time sms
+write msg isme vo hi number dale jo ki mere server par genrate kr ke liya ho 
+nhi to contact app par ja kr number par click kr ke uske bad msg kr skte hai 
+uske bad inbox me chat user dekh skte hai agar koi problem hai to code ko check kr le 
+
+* file explorer
+  ![Screenshot 2024-05-14 221810](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/7fd29c55-5b16-4255-bca9-d763495ad898)
+
+working file explorer
+create folder
+delete folder
+rename folder
+agar photo hai to photo bhi dikh jayegi or video ya song hua to usko bhi dekh skte hai
+
+*note app
+![Screenshot 2024-05-14 222141](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/c70a68d9-bcf2-41ed-b1bf-b8d742b415ea)
+
+working note app 
+create note
+delete note
+Favorite Note
+Unavorite Note
+Favorite section
+theam
+and more 
+
+![Screenshot 2024-05-14 222522](https://github.com/HackerJaatWorld/smart_watch_001/assets/121219928/2b6906e6-596c-42a6-97e9-819a9f8d735f)
+
+
+Thank You 
+
+msg me on instagram 
+https://www.instagram.com/never_trust_in_females/
+

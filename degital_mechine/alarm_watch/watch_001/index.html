@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>watch 001</title>
+    <link rel="icon" href="icon/clock.svg">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .time {
+            transition: transform 0.5s ease-in-out;
+        }
+    </style>
+</head>
+
+<body>
+
+    <audio id="tune" src="tune/hassium.ogg"></audio>
+
+    <div class="container">
+        <h3 class="brand_name">Ram Chaudhary</h3>
+        <div class="display_time">
+            <div class="num">
+                <div class="time" id="hour_num_top">0</div>
+            </div>
+            <div class="num">
+                <div class="time" id="hour_num_2_top">0</div>
+            </div>
+            <div class="num">
+                <div class="time" style="margin-top: -10px;">:</div>
+            </div>
+            <div class="num">
+                <div class="time" id="minut_num_top">0</div>
+            </div>
+            <div class="num">
+                <div class="time" id="minut_num_2_top">0</div>
+            </div>
+            <div class="num">
+                <div class="time" id="second_dots" style="margin-top: -10px;">:</div>
+            </div>
+            <div class="num">
+                <div class="time" id="second_num_top">0</div>
+            </div>
+            <div class="num">
+                <div class="time" id="second_num_2_top">0</div>
+            </div>
+        </div>
+
+        <div class="btns">
+            <div class="set_time">
+                <input class="time_box" id="set_time" type="time">
+                <button class="watch_btn" id="on_btn" onclick="setAlarm()">
+                    <img src="icon/on-tag.svg" alt="">
+                </button>
+                <button class="watch_btn" id="off_btn" onclick="offAlarm()">
+                    <img src="icon/off-tag.svg" alt="">
+                </button>
+            </div>
+        </div>
+
+        <div class="set_time_display">Time Set:- <span id="set_time_display"></span></div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

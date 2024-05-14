@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container{
+    width: 90%;
+    /* background: green; */
+    margin: 10px auto;
+}
